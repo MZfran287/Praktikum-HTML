@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum HTML Part 1</title>
+</head>
+<body>
+    <center><h1>Profil Pribadi</h1></center>
+    <br>
+
+    <center><b><h2>Biografi</h2></b></center>
+    <br>
+
+    <center><p>Nama saya Muhammad Zafran Zulkifli, saya merupakan mahasiswa semester 4 Fakultas Teknik dan Informatika, Program Studi Teknologi Informasi</p></center>
+    <br>
+
+    <center><b><h2>Pendidikan</h2></b></center>
+    <center><p>Saya merupakan alumni dari SMAN 2 Gunung Putri yang berada di Bogor dan saya lulus pada tahun 2021.</p></center>
+    <br>
+
+    <center><h2>Riwayat Pendidikan</h2></center>
+    <center><ol>
+        <li>SDN 3 Bojongkulur</li>
+        <li>SMPN 3 Gunung Putri</li>
+        <li>SMAN 2 Gunung Putri</li>
+    </ol></center>
+
+
+
+    <center><h3> Anda dapat mengunjungi profil instagram saya dibawah ini:</h3></center>
+   <center><a href="https://www.instagram.com/muh_zafrann?igsh=MXBrdG95enRxc3Brbw==">
+    <img src="../VSCODEfile/HTML/img/igzafran.jpeg" alt="QR Instagram" width="10%" title="Profil Zafran">
+    </a></center>
+    <br><br>
+
+    <center><h2>Foto Profil</h2></center>
+    <center><img align="center" src="../VSCODEfile/HTML/img/foto zafran.jpeg" alt="QR Instagram" width="10%" title="Profil Zafran" ></center>
+    <br>
+    <center><p>Klik gambar dibawah ini untuk mengunjungi situs kampus saya!</p></center>
+    <center><a href="https://undiknas.ac.id/">
+    <img src="../VSCODEfile/HTML/img/undiknas.jpg" alt="Logo UNDIKNAS" width="10%" title="Logo UNDIKNAS">
+    </a></center>
+    <br><br>
+
+    <center><b><h2>Hobi Saya</h2></b></center>
+    <ul align="center">
+        <li>Belajar</li>
+        <li>Olahraga</li>
+        <li>Bermain alat musik</li>
+        <li>Bercengkrama</li>
+    </ul>
+    <br>
+
+    <center><b><h2>Jadwal Kuliah</h2></b></center>
+    <table align="center" border="1">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Senin</th>
+                <th>Selasa</th>
+                <th>Rabu</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Jam Pertama</th>
+                <td>Sistem Pakar</td>
+                <td>Manajemen Layanan Teknologi Informasi</td>
+                <td>Pemrograma Web - Kelas B</td>
+            </tr>
+            <tr>
+                <th>Jam Kedua</th>
+                <td>Konfigurasi dan Administrasi Basis Data</td>
+                <td>Internet of Things</td>
+                <td>Keamanan Siber</td>
+            </tr>
+            <tr>
+                <th>Jam ketiga</th>
+                <td>Kosong</td>
+                <td>Manajemen Risiko Teknologi Informasi</td>
+                <td>Kosong</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+</html>
